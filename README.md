@@ -24,8 +24,8 @@
       <div class="bb ze ki xn 2xl:ud-px-0 oo wf yf i">
         <div class="vd to/4 tc wf yf">
           <a href="index.html">
-            <img class="om" src="./logo-light.svg" alt="Logo Light" />
-            <img class="xc nm" src="./logo-dark.svg" alt="Logo Dark" />
+            <img class="om" src="/logo-light.svg" alt="Logo Light" />
+            <img class="xc nm" src="/logo-dark.svg" alt="Logo Dark" />
           </a>
 
           <!-- Hamburger Toggle BTN -->
@@ -173,7 +173,7 @@
                   />
                 </svg>
                 <!-- Icon Sun -->
-                <img class="xc nm" src="./icon-moon.svg" alt="Moon" />
+                <img class="xc nm" src="/icon-moon.svg" alt="Moon" />
               </label>
             </div>
 
@@ -199,25 +199,25 @@
     <main>
       <!-- ===== Hero Start ===== -->
       <section class="gj do ir hj sp jr i pg">
-        <!-- Hero . -->
+        <!-- Hero  -->
         <div class="xc fn zd/2 2xl:ud-w-187.5 bd 2xl:ud-h-171.5 h q r">
           <img
-            src="./shape-01.svg"
+            src="/shape-01.svg"
             alt="shape"
             class="xc 2xl:ud-block h t -ud-left-[10%] ua"
           />
           <img
-            src="./shape-02.svg"
+            src="/shape-02.svg"
             alt="shape"
             class="xc 2xl:ud-block h u p va"
           />
           <img
-            src="./shape-03.svg"
+            src="/shape-03.svg"
             alt="shape"
             class="xc 2xl:ud-block h v w va"
           />
-          <img src="./shape-04.svg" alt="shape" class="h q r" />
-          <img src="./hero.png" alt="Woman" class="h q r ua" />
+          <img src="/shape-04.svg" alt="shape" class="h q r" />
+          <img src="/hero.png" alt="Woman" class="h q r ua" />
         </div>
 
         <!-- Hero Content -->
@@ -258,7 +258,7 @@
             <!-- Small Features Item -->
             <div class="animate_top kn to/3 tc cg oq">
               <div class="tc wf xf cf ae cd rg mh">
-                <img src="./icon-01.svg" alt="Icon" />
+                <img src="/icon-01.svg" alt="Icon" />
               </div>
               <div>
                 <h4 class="ek yj go kk wm xb">24/7 Support</h4>
@@ -269,7 +269,7 @@
             <!-- Small Features Item -->
             <div class="animate_top kn to/3 tc cg oq">
               <div class="tc wf xf cf ae cd rg nh">
-                <img src="./icon-02.svg" alt="Icon" />
+                <img src="/icon-02.svg" alt="Icon" />
               </div>
               <div>
                 <h4 class="ek yj go kk wm xb">Take Ownership</h4>
@@ -280,7 +280,7 @@
             <!-- Small Features Item -->
             <div class="animate_top kn to/3 tc cg oq">
               <div class="tc wf xf cf ae cd rg oh">
-                <img src="./icon-03.svg" alt="Icon" />
+                <img src="/icon-03.svg" alt="Icon" />
               </div>
               <div>
                 <h4 class="ek yj go kk wm xb">Team Work</h4>
@@ -296,21 +296,21 @@
       <section class="ji gp uq 2xl:ud-py-35 pg">
         <div class="bb ze ki xn wq">
           <div class="tc wf gg qq">
-            <!-- About . -->
+            <!-- About  -->
             <div class="animate_left xc gn gg jn/2 i">
               <div>
                 <img
-                  src="./shape-05.svg"
+                  src="/shape-05.svg"
                   alt="Shape"
                   class="h -ud-left-5 x"
                 />
-                <img src="./about-01.png" alt="About" class="ib" />
-                <img src="./about-02.png" alt="About" />
+                <img src="/about-01.png" alt="About" class="ib" />
+                <img src="/about-02.png" alt="About" />
               </div>
               <div>
-                <img src="./shape-06.svg" alt="Shape" />
-                <img src="./about-03.png" alt="About" class="ob gb" />
-                <img src="./shape-07.svg" alt="Shape" class="bb" />
+                <img src="/shape-06.svg" alt="Shape" />
+                <img src="/about-03.png" alt="About" class="ob gb" />
+                <img src="/shape-07.svg" alt="Shape" class="bb" />
               </div>
             </div>
 
@@ -333,7 +333,7 @@
               >
                 <span class="tc wf xf be dd rg i gh ua">
                   <span class="nf h vc yc vd rg gh qk -ud-z-1"></span>
-                  <img src="./icon-play.svg" alt="Play" />
+                  <img src="/icon-play.svg" alt="Play" />
                 </span>
                 <span class="kk">SEE HOW WE WORK</span>
               </a>
@@ -347,10 +347,10 @@
       <section class="i pg ji gp uq">
         <!-- Bg Shapes -->
         <span class="rc h s r vd fd/5 fh rm"></span>
-        <img src="./shape-08.svg" alt="Shape Bg" class="h q r" />
-        <img src="./shape-09.svg" alt="Shape" class="of h y z/2" />
-        <img src="./shape-10.svg" alt="Shape" class="h _ aa" />
-        <img src="./shape-11.svg" alt="Shape" class="of h m ba" />
+        <img src="/shape-08.svg" alt="Shape Bg" class="h q r" />
+        <img src="/shape-09.svg" alt="Shape" class="of h y z/2" />
+        <img src="/shape-10.svg" alt="Shape" class="h _ aa" />
+        <img src="/shape-11.svg" alt="Shape" class="of h m ba" />
 
         <!-- Section Title Start -->
         <div
@@ -371,7 +371,7 @@
             <!-- Team Item -->
             <div class="animate_top rj">
               <div class="c i pg z-1">
-                <img class="vd" src="./team-01.png" alt="Team" />
+                <img class="vd" src="/team-01.png" alt="Team" />
 
                 <div class="ef im nl il">
                   <span
@@ -443,7 +443,7 @@
             <!-- Team Item -->
             <div class="animate_top rj">
               <div class="c i pg z-1">
-                <img class="vd" src="./team-02.png" alt="Team" />
+                <img class="vd" src="/team-02.png" alt="Team" />
 
                 <div class="ef im nl il">
                   <span
@@ -515,7 +515,7 @@
             <!-- Team Item -->
             <div class="animate_top rj">
               <div class="c i pg z-1">
-                <img class="vd" src="./team-03.png" alt="Team" />
+                <img class="vd" src="/team-03.png" alt="Team" />
 
                 <div class="ef im nl il">
                   <span
@@ -608,7 +608,7 @@
           <div class="wc qf pn xo ng">
             <!-- Service Item -->
             <div class="animate_top sg oi pi zq ml il am cn _m">
-              <img src="./icon-04.svg" alt="Icon" />
+              <img src="/icon-04.svg" alt="Icon" />
               <h4 class="ek zj kk wm nb _b">Crafted for Startups</h4>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -618,7 +618,7 @@
 
             <!-- Service Item -->
             <div class="animate_top sg oi pi zq ml il am cn _m">
-              <img src="./icon-05.svg" alt="Icon" />
+              <img src="/icon-05.svg" alt="Icon" />
               <h4 class="ek zj kk wm nb _b">High-quality Design</h4>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -628,7 +628,7 @@
 
             <!-- Service Item -->
             <div class="animate_top sg oi pi zq ml il am cn _m">
-              <img src="./icon-06.svg" alt="Icon" />
+              <img src="/icon-06.svg" alt="Icon" />
               <h4 class="ek zj kk wm nb _b">All Essential Sections</h4>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -638,7 +638,7 @@
 
             <!-- Service Item -->
             <div class="animate_top sg oi pi zq ml il am cn _m">
-              <img src="./icon-07.svg" alt="Icon" />
+              <img src="/icon-07.svg" alt="Icon" />
               <h4 class="ek zj kk wm nb _b">Speed Optimized</h4>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -648,7 +648,7 @@
 
             <!-- Service Item -->
             <div class="animate_top sg oi pi zq ml il am cn _m">
-              <img src="./icon-05.svg" alt="Icon" />
+              <img src="/icon-05.svg" alt="Icon" />
               <h4 class="ek zj kk wm nb _b">Fully Customizable</h4>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -658,7 +658,7 @@
 
             <!-- Service Item -->
             <div class="animate_top sg oi pi zq ml il am cn _m">
-              <img src="./icon-06.svg" alt="Icon" />
+              <img src="/icon-06.svg" alt="Icon" />
               <h4 class="ek zj kk wm nb _b">Regular Updates</h4>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -673,11 +673,11 @@
       <!-- ===== Pricing Table Start ===== -->
       <section x-data="setup()" class="i pg fh rm ji gp uq">
         <!-- Bg Shapes -->
-        <img src="./shape-06.svg" alt="Shape" class="h aa y" />
-        <img src="./shape-03.svg" alt="Shape" class="h ca u" />
-        <img src="./shape-07.svg" alt="Shape" class="h w da ee" />
-        <img src="./shape-12.svg" alt="Shape" class="h p s" />
-        <img src="./shape-13.svg" alt="Shape" class="h r q" />
+        <img src="/shape-06.svg" alt="Shape" class="h aa y" />
+        <img src="/shape-03.svg" alt="Shape" class="h ca u" />
+        <img src="/shape-07.svg" alt="Shape" class="h w da ee" />
+        <img src="/shape-12.svg" alt="Shape" class="h p s" />
+        <img src="/shape-13.svg" alt="Shape" class="h r q" />
 
         <!-- Section Title Start -->
         <div
@@ -817,7 +817,7 @@
             <!-- Project Item -->
             <div class="project-item wi fb vd jn/2 to/3 branding ecommerce">
               <div class="c i pg sg z-1">
-                <img src="./project-01.png" alt="Project" />
+                <img src="/project-01.png" alt="Project" />
 
                 <div
                   class="h s r df nl kl im tc sf wf xf vd yc sg al hh/20 z-10"
@@ -848,7 +848,7 @@
             <!-- Project Item -->
             <div class="project-item wi fb vd jn/2 to/3 digital">
               <div class="c i pg sg z-1">
-                <img src="./project-02.png" alt="Project" />
+                <img src="/project-02.png" alt="Project" />
 
                 <div
                   class="h s r df nl kl im tc sf wf xf vd yc sg al hh/20 z-10"
@@ -879,7 +879,7 @@
             <!-- Project Item -->
             <div class="project-item wi fb vd jn/2 to/3 branding ecommerce">
               <div class="c i pg sg z-1">
-                <img src="./project-04.png" alt="Project" />
+                <img src="/project-04.png" alt="Project" />
 
                 <div
                   class="h s r df nl kl im tc sf wf xf vd yc sg al hh/20 z-10"
@@ -910,7 +910,7 @@
             <!-- Project Item -->
             <div class="project-item wi fb vd vo/3 digital ecommerce">
               <div class="c i pg sg z-1">
-                <img src="./project-03.png" alt="Project" />
+                <img src="/project-03.png" alt="Project" />
 
                 <div
                   class="h s r df nl kl im tc sf wf xf vd yc sg al hh/20 z-10"
@@ -972,10 +972,10 @@
                     <span class="rc je md/2 mh yg h q p"></span>
 
                     <div class="tc sf rn tn un zf dp">
-                      <img class="bf" src="./testimonial.png" alt="User" />
+                      <img class="bf" src="/testimonial.png" alt="User" />
 
                       <div>
-                        <img src="./icon-quote.svg" alt="Quote" />
+                        <img src="/icon-quote.svg" alt="Quote" />
                         <p class="ek ik xj _p kc fb">
                           Lorem ipsum dolor sit amet, consectetur adipiscing
                           elit. In dolor diam, feugiat quis enim sed,
@@ -991,7 +991,7 @@
 
                           <img
                             class="rk"
-                            src="./brand-light-02.svg"
+                            src="/brand-light-02.svg"
                             alt="Brand"
                           />
                         </div>
@@ -1045,10 +1045,10 @@
 
       <!-- ===== Counter Start ===== -->
       <section class="i pg qh rm ji hp">
-        <img src="./shape-11.svg" alt="Shape" class="of h ga ha ke" />
-        <img src="./shape-07.svg" alt="Shape" class="h ia o ae jf" />
-        <img src="./shape-14.svg" alt="Shape" class="h ja ka" />
-        <img src="./shape-15.svg" alt="Shape" class="h q p" />
+        <img src="/shape-11.svg" alt="Shape" class="of h ga ha ke" />
+        <img src="/shape-07.svg" alt="Shape" class="h ia o ae jf" />
+        <img src="/shape-14.svg" alt="Shape" class="h ja ka" />
+        <img src="/shape-15.svg" alt="Shape" class="h q p" />
 
         <div class="bb ze i va ki xn br">
           <div class="tc uf sn tn xf un gg">
@@ -1094,72 +1094,72 @@
             <a href="#" class="rc animate_top">
               <img
                 class="th wl ml il zl om"
-                src="./brand-light-01.svg"
+                src="/brand-light-01.svg"
                 alt="Clients"
               />
               <img
                 class="xc sk ml il zl nm"
-                src="./brand-dark-01.svg"
+                src="/brand-dark-01.svg"
                 alt="Clients"
               />
             </a>
             <a href="#" class="rc animate_top">
               <img
                 class="tk ml il zl om"
-                src="./brand-light-02.svg"
+                src="/brand-light-02.svg"
                 alt="Clients"
               />
               <img
                 class="xc sk ml il zl nm"
-                src="./brand-dark-02.svg"
+                src="/brand-dark-02.svg"
                 alt="Clients"
               />
             </a>
             <a href="#" class="rc animate_top">
               <img
                 class="tk ml il zl om"
-                src="./brand-light-03.svg"
+                src="/brand-light-03.svg"
                 alt="Clients"
               />
               <img
                 class="xc sk ml il zl nm"
-                src="./brand-dark-03.svg"
+                src="/brand-dark-03.svg"
                 alt="Clients"
               />
             </a>
             <a href="#" class="rc animate_top">
               <img
                 class="tk ml il zl om"
-                src="./brand-light-04.svg"
+                src="/brand-light-04.svg"
                 alt="Clients"
               />
               <img
                 class="xc sk ml il zl nm"
-                src="./brand-dark-04.svg"
+                src="/brand-dark-04.svg"
                 alt="Clients"
               />
             </a>
             <a href="#" class="rc animate_top">
               <img
                 class="tk ml il zl om"
-                src="./brand-light-05.svg"
+                src="/brand-light-05.svg"
                 alt="Clients"
               />
               <img
                 class="xc sk ml il zl nm"
-                src="./brand-dark-05.svg"
+                src="/brand-dark-05.svg"
                 alt="Clients"
               />
             </a>
             <a href="#" class="rc animate_top">
               <img
                 class="tk ml il zl om"
-                src="./brand-light-06.svg"
+                src="/brand-light-06.svg"
                 alt="Clients"
               />
               <img
                 class="xc sk ml il zl nm"
-                src="./brand-dark-06.svg"
+                src="/brand-dark-06.svg"
                 alt="Clients"
               />
             </a>
@@ -1189,7 +1189,7 @@
             <!-- Blog Item -->
             <div class="animate_top sg vk rm xm">
               <div class="c rc i z-1 pg">
-                <img class="w-full" src="./blog-01.png" alt="Blog" />
+                <img class="w-full" src="/blog-01.png" alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
                   <a
@@ -1203,11 +1203,11 @@
               <div class="yh">
                 <div class="tc uf wf ag jq">
                   <div class="tc wf ag">
-                    <img src="./icon-man.svg" alt="User" />
+                    <img src="/icon-man.svg" alt="User" />
                     <p>Musharof Chy</p>
                   </div>
                   <div class="tc wf ag">
-                    <img src="./icon-calender.svg" alt="Calender" />
+                    <img src="/icon-calender.svg" alt="Calender" />
                     <p>25 Dec, 2025</p>
                   </div>
                 </div>
@@ -1222,7 +1222,7 @@
             <!-- Blog Item -->
             <div class="animate_top sg vk rm xm">
               <div class="c rc i z-1 pg">
-                <img class="w-full" src="./blog-02.png" alt="Blog" />
+                <img class="w-full" src="/blog-02.png" alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
                   <a
@@ -1236,11 +1236,11 @@
               <div class="yh">
                 <div class="tc uf wf ag jq">
                   <div class="tc wf ag">
-                    <img src="./icon-man.svg" alt="User" />
+                    <img src="/icon-man.svg" alt="User" />
                     <p>Musharof Chy</p>
                   </div>
                   <div class="tc wf ag">
-                    <img src="./icon-calender.svg" alt="Calender" />
+                    <img src="/icon-calender.svg" alt="Calender" />
                     <p>25 Dec, 2025</p>
                   </div>
                 </div>
@@ -1255,7 +1255,7 @@
             <!-- Blog Item -->
             <div class="animate_top sg vk rm xm">
               <div class="c rc i z-1 pg">
-                <img class="w-full" src="./blog-03.png" alt="Blog" />
+                <img class="w-full" src="/blog-03.png" alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
                   <a
@@ -1269,11 +1269,11 @@
               <div class="yh">
                 <div class="tc uf wf ag jq">
                   <div class="tc wf ag">
-                    <img src="./icon-man.svg" alt="User" />
+                    <img src="/icon-man.svg" alt="User" />
                     <p>Musharof Chy</p>
                   </div>
                   <div class="tc wf ag">
-                    <img src="./icon-calender.svg" alt="Calender" />
+                    <img src="/icon-calender.svg" alt="Calender" />
                     <p>25 Dec, 2025</p>
                   </div>
                 </div>
@@ -1292,11 +1292,11 @@
       <!-- ===== Contact Start ===== -->
       <section id="support" class="i pg fh rm ji gp uq">
         <!-- Bg Shapes -->
-        <img src="./shape-06.svg" alt="Shape" class="h aa y" />
-        <img src="./shape-03.svg" alt="Shape" class="h ca u" />
-        <img src="./shape-07.svg" alt="Shape" class="h w da ee" />
-        <img src="./shape-12.svg" alt="Shape" class="h p s" />
-        <img src="./shape-13.svg" alt="Shape" class="h r q" />
+        <img src="/shape-06.svg" alt="Shape" class="h aa y" />
+        <img src="/shape-03.svg" alt="Shape" class="h ca u" />
+        <img src="/shape-07.svg" alt="Shape" class="h w da ee" />
+        <img src="/shape-12.svg" alt="Shape" class="h p s" />
+        <img src="/shape-13.svg" alt="Shape" class="h r q" />
 
         <!-- Section Title Start -->
         <div
@@ -1316,9 +1316,9 @@
           <div class="tc uf sn tf rn un zf xl:gap-10">
             <div class="animate_top w-full mn/5 to/3 vk sg hh sm yh rq i pg">
               <!-- Bg Shapes -->
-              <img src="./shape-03.svg" alt="Shape" class="h la x wd" />
+              <img src="/shape-03.svg" alt="Shape" class="h la x wd" />
               <img
-                src="./shape-06.svg"
+                src="/shape-06.svg"
                 alt="Shape"
                 class="h la ma ne kf"
               />
@@ -1496,7 +1496,7 @@
       <!-- ===== CTA Start ===== -->
       <section class="i pg gh ji">
         <!-- Bg Shape -->
-        <img class="h p q" src="./shape-16.svg" alt="Bg Shape" />
+        <img class="h p q" src="/shape-16.svg" alt="Bg Shape" />
 
         <div class="bb ye i z-10 ki xn dr">
           <div class="tc uf sn tn un gg">
@@ -1529,8 +1529,8 @@
           <div class="tc uf ap gg fp">
             <div class="animate_top zd/2 to/4">
               <a href="index.html">
-                <img src="./logo-light.svg" alt="Logo" class="om" />
-                <img src="./logo-dark.svg" alt="Logo" class="xc nm" />
+                <img src="/logo-light.svg" alt="Logo" class="om" />
+                <img src="/logo-dark.svg" alt="Logo" class="xc nm" />
               </a>
 
               <p class="lc fb">
